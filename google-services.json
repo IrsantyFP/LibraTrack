@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931884305177",
+    "project_id": "libratrack-7ceb0",
+    "storage_bucket": "libratrack-7ceb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931884305177:android:485ca124ee4d595d73d388",
+        "android_client_info": {
+          "package_name": "ifp.mobile.projek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7CyNJe6Gm8yqR-miiBlUPLZuBkZ4XSdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
